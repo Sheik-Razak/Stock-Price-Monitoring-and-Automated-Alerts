@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ugOgK19TkEaKHgF9eKZjCA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com/assets/rpaStockMarket/index.html" CVScreenId="e32dbd78-1458-42cd-b290-240ec80f651e" CvTextArea="557, 811, 176, 74" CvType="AnyWordGroup" DesignTimeRectangle="507, 801, 225, 100" DesignTimeScaleFactor="2" ElementType="Text" FullSelectorArgument="&lt;webctrl id='cnt' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='cnt' tag='SPAN' type='' class='' aaname='73.15' /&gt;" Guid="ebdcfc45-b256-4bfe-9ddc-19a5de9c719c" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='RPA Stock Market' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="41ef09b89b1f00ea3bc3aa8c7f823a83.png" xmlns="">00_9vGpDc5UunNGbEn2MOng</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

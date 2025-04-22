@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome RPA Stock Market",
+  "Type": "App",
+  "Id": "1Mn6Z4xJdkCqXdHfgVeLUQ",
+  "Reference": "NLimtxjlEEC0d8mqAJob6g/1Mn6Z4xJdkCqXdHfgVeLUQ",
+  "Created": "2024-12-05T06:54:20.227803Z",
+  "Updated": "2024-12-05T06:54:20.227803Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

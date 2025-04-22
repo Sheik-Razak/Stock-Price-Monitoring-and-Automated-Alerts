@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uqVmMEz43EavzKfCZ8deww" Reference="NLimtxjlEEC0d8mqAJob6g/ZQp0_MiYSUCshbV2JjQDmg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com/assets/rpaStockMarket/index.html" CVScreenId="0ae63bb0-7f21-41e4-8ad1-e4122a56647e" CvElementArea="89, 660, 326, 50" CvType="InputBox" DesignTimeRectangle="93, 663, 320, 44" DesignTimeScaleFactor="2" ElementType="DropDown" FullSelectorArgument="&lt;webctrl id='country' tag='SELECT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='country' tag='SELECT' type='' class='' aaname='' /&gt;" Guid="dac68880-5406-4918-91a2-733e222be495" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='RPA Stock Market' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="692a7444-499f-416b-9d15-4225e9a684bd" CvTextArea="93, 749, 408, 52" CvTextArgument="Exxon RPA Corp." CvType="Text" DesignTimeRectangle="93, 743, 640, 60" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='result' tag='H1' type='' class='' aaname='Exxon RPA Corp.' check:innerText='Exxon RPA Corp.' /&gt;" Guid="bc27490a-193d-4f0b-8b92-11d398cc2c31" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="827432da88e9a8255f091b89f8a81884.png" xmlns="">0Carl4v24gk2Dvy8JcGPcig</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
